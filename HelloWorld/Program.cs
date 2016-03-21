@@ -15,7 +15,7 @@ namespace HelloWorld
 
         public static string CreateMessage()
         {
-            return "Hello World. This is Alan";
+            return "Hello World.";
         }
     }
 }
